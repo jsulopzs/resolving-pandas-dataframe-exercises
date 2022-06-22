@@ -9,3 +9,5 @@ The Structure of the Book is as follows:
   2. Curiosity x Learning Solutions
 
 The `*solution.ipynb` file contains the development of the solution for the challenge. While you go through the notebook, you will encounter clickable yellow cells which opens a new notebook to understand a Curious Concept about Python you may not understand.
+
+You must download the repository to make the clickable link work.
